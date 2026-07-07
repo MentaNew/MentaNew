@@ -189,31 +189,16 @@ Applied data science for energy demand forecasting.
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:-----------:|:--------|
-| 🎓 **Double Degree** | Engineering at Mines Paris – PSL (Applied Maths & AI) × Master in Management at HEC Paris |
-| 🏛️ **Classes Préparatoires** | Lycée Henri IV — admitted to top Grandes Écoles through competitive national exams |
-| 🔬 **Research Experience** | AI research at Inria and Mines Paris (STIM) as an undergraduate |
-| 🤝 **Leadership** | Communications Manager at HEC4Refugees · Events Coordinator at HEC Bourse |
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MentaNew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=7C3AED&text_color=A5B4FC&count_private=true" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MentaNew&theme=tokyonight" height="180" />
 <img src="https://streak-stats.demolab.com/?user=MentaNew&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=7C3AED&currStreakLabel=A5B4FC" height="180" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MentaNew&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=A5B4FC&langs_count=8" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MentaNew&theme=tokyonight" height="180" />
 
 </div>
 
