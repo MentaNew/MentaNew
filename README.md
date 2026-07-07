@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=220&section=header&text=El%20Mehdi%20El%20Kasmi&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/MentaNew">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%2F+Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning+Engineer;AI+Researcher;Data+Scientist;Open+Source+Contributor;Building+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/B.Sc-Computer%20Science-7C3AED?style=flat-square&logo=googlescholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-6D28D9?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Morocco-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-France-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
