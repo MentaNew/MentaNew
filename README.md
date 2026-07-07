@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=220&section=header&text=El%20Mehdi%20El%20Kasmi&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=220&section=header&text=El%20Mehdi%20El%20Kasmi&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20AI%20Research%20%7C%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/MentaNew">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+%2F+Machine+Learning+Engineer;AI+Researcher;Data+Scientist;Open+Source+Contributor;Building+Intelligent+Systems" alt="Typing SVG" />
@@ -8,16 +8,13 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Sc-Computer%20Science-7C3AED?style=flat-square&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-6D28D9?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-France-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Mines%20Paris%20--%20PSL-Applied%20Mathematics%20%26%20AI-7C3AED?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/HEC%20Paris-Master%20in%20Management-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Paris%2C%20France-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
-<a href="https://MentaNew.dev">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/MentaNew">
+<a href="https://www.linkedin.com/in/el-mehdi-el-kasmi-70840b291/">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:elmehdi.elkass@gmail.com">
@@ -31,7 +28,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=MentaNew&style=flat-square&color=8B5CF6&label=Profile+Views" />
 <img src="https://img.shields.io/github/followers/MentaNew?style=flat-square&color=7C3AED&labelColor=1a1b27&label=Followers&logo=github" />
-<img src="https://img.shields.io/github/stars/MentaNew?style=flat-square&color=6D28D9&labelColor=1a1b27&label=Stars&logo=github" />
 
 </div>
 
@@ -41,22 +37,22 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const elmehdi = {
-  role: "Software Engineer",
-  focus: ["AI/ML Systems", "Full Stack Engineering", "Product Development"],
-  philosophy: "Ship reliable systems. Measure everything. Iterate fast.",
-};
+```python
+elmehdi = {
+    "background": "Applied Mathematics & AI @ Mines Paris – PSL × HEC Paris",
+    "focus": ["Machine Learning", "AI Research", "Data Science"],
+    "philosophy": "Understand the math. Build the system. Measure the result.",
+}
 ```
 
-Software engineer specializing in **AI/ML systems** and **full stack product engineering**. I design and build end-to-end intelligent applications — from data pipelines and model training to production APIs and polished frontends. I care deeply about clean architecture, performance under scale, and shipping products that solve real problems.
+Machine learning and deep learning enthusiast pursuing an engineering degree in **Applied Mathematics & AI** at **Mines Paris – PSL**, alongside a Master in Management at **HEC Paris**. My work sits at the intersection of research and application — from benchmarking LLMs on time series tasks to building end-to-end forecasting and anomaly detection systems.
 
-- 🧠 Building **machine learning and deep learning systems** — NLP, computer vision, and LLM-powered applications
-- ⚙️ Engineering **scalable backends** with strong emphasis on reliability, observability, and security
-- 🎨 Crafting **modern frontends** with a product engineering mindset — UX-driven, performance-first
-- 🌱 Contributing to **open source** and continuously learning emerging AI infrastructure
+- 🔬 **AI research** — LLMs for time series analysis, unsupervised anomaly detection, Extreme Value Theory
+- 🧠 **Deep learning** — CNNs, LSTMs, latent representation learning, generative models
+- 📊 **Applied data science** — demand forecasting, A/B experimentation, model validation
+- ⚙️ **End-to-end ML** — from experimentation (Optuna, MLflow) to real-time deployment (FastAPI)
 
-**Open To:** `Software Engineering Roles` · `AI/ML Engineering Roles` · `Open Source Collaboration` · `Freelance Projects`
+**Open To:** `ML Engineering` · `AI Research` · `Data Science` · `Research Collaborations`
 
 ---
 
@@ -64,25 +60,37 @@ Software engineer specializing in **AI/ML systems** and **full stack product eng
 
 <div align="center">
 
-### Languages
+### Languages & Core
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,latex&theme=dark" />
 
-### Frontend
+### Machine Learning & Deep Learning
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" />
 
-### Backend & Databases
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgres,mongodb,redis,graphql&theme=dark" />
+<img src="https://img.shields.io/badge/LightGBM-8B5CF6?style=flat-square&logo=lightning&logoColor=white" />
+<img src="https://img.shields.io/badge/Optuna-7C3AED?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-5B21B6?style=flat-square&logo=numpy&logoColor=white" />
 
-### Cloud, DevOps & Tooling
+### MLOps & Deployment
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github,linux,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github&theme=dark" />
 
-### AI / ML
+<br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda&theme=dark" />
+<img src="https://img.shields.io/badge/MLflow-8B5CF6?style=flat-square&logo=mlflow&logoColor=white" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-6D28D9?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-5B21B6?style=flat-square&logo=googlesheets&logoColor=white" />
 
 </div>
 
@@ -94,12 +102,12 @@ Software engineer specializing in **AI/ML systems** and **full stack product eng
 
 | Domain | Proficiency | Details |
 |:-------|:-----------:|:--------|
-| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised/unsupervised learning, feature engineering, model evaluation, scikit-learn |
-| **Deep Learning** | ⭐⭐⭐⭐⭐ | CNNs, RNNs, Transformers, transfer learning — PyTorch & TensorFlow |
-| **Natural Language Processing** | ⭐⭐⭐⭐ | LLM fine-tuning, RAG pipelines, embeddings, semantic search, Hugging Face |
-| **Computer Vision** | ⭐⭐⭐⭐ | Object detection, image classification, segmentation, OpenCV, YOLO |
-| **MLOps & Deployment** | ⭐⭐⭐⭐ | Model serving, CI/CD for ML, monitoring, Docker, FastAPI inference APIs |
-| **Data Engineering** | ⭐⭐⭐ | ETL pipelines, data validation, Pandas, NumPy, SQL optimization |
+| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, LSTMs, encoder fine-tuning, latent representations — PyTorch |
+| **Time Series Analysis** | ⭐⭐⭐⭐ | Forecasting, anomaly detection, motif discovery, segmentation, LLM benchmarking |
+| **Machine Learning** | ⭐⭐⭐⭐ | Gradient boosting (LightGBM), hyperparameter tuning (Optuna), model evaluation |
+| **Computer Vision** | ⭐⭐⭐ | Image anomaly detection, image captioning, representation learning |
+| **Statistics** | ⭐⭐⭐ | Extreme Value Theory, A/B experimentation, statistical modelling |
+| **MLOps** | ⭐⭐⭐ | Experiment tracking (MLflow), real-time API deployment (FastAPI) |
 
 </div>
 
@@ -108,78 +116,36 @@ Software engineer specializing in **AI/ML systems** and **full stack product eng
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🧠 IntelliDoc — AI Document Intelligence Platform</b></summary>
+<summary><b>🖼️ Image Captioning — CNN–LSTM Encoder-Decoder</b></summary>
 <br/>
 
-End-to-end RAG platform that ingests, indexes, and answers questions over enterprise document collections with cited, hallucination-resistant responses.
+End-to-end image captioning model built and trained on the Flickr dataset with a full PyTorch pipeline.
 
 | Attribute | Details |
 |:----------|:--------|
-| **Stack** | Python, FastAPI, LangChain, PostgreSQL + pgvector, Next.js, Docker |
-| **Scale** | 100K+ document chunks indexed, multi-tenant architecture |
-| **Performance** | Sub-800ms P95 retrieval latency with hybrid semantic + keyword search |
-| **Security** | JWT auth, row-level tenant isolation, encrypted document storage |
-| **Impact** | Reduced manual document review time by ~70% in pilot deployments |
-| **Repository** | [github.com/MentaNew/intellidoc](https://github.com/MentaNew/intellidoc) |
+| **Stack** | Python, PyTorch, CNN encoder + LSTM decoder |
+| **Focus** | Aligning visual and textual feature spaces |
+| **Highlights** | Fine-tuned the encoder to align image and text features; complete training/inference pipeline |
+| **Repository** | [github.com/MentaNew](https://github.com/MentaNew?tab=repositories) |
 
-Built a production-grade retrieval-augmented generation pipeline with chunking strategies tuned per document type, reranking for precision, and streaming LLM responses. The frontend delivers a real-time chat experience with inline source citations, and the entire system ships as a single Docker Compose deployment.
+Implements the classic encoder-decoder architecture for vision-language tasks: a convolutional encoder extracts image features that condition an LSTM decoder generating captions token by token, with the encoder fine-tuned end-to-end for better cross-modal alignment.
 
 </details>
 
 <details>
-<summary><b>👁️ VisionGuard — Real-Time Object Detection System</b></summary>
+<summary><b>🕵️ Fraud Detection System — End-to-End MLOps</b></summary>
 <br/>
 
-Real-time computer vision system for automated monitoring, performing multi-class object detection and tracking on live video streams.
+Production-style fraud detection system covering the full ML lifecycle, from tuned gradient-boosting models to a real-time serving API.
 
 | Attribute | Details |
 |:----------|:--------|
-| **Stack** | Python, PyTorch, YOLOv8, OpenCV, Redis Streams, FastAPI |
-| **Scale** | Processes 8+ concurrent video streams on a single GPU node |
-| **Performance** | 30+ FPS inference with TensorRT optimization, 92% mAP on custom dataset |
-| **Security** | Signed inference endpoints, on-device processing option for privacy |
-| **Impact** | Automated a previously manual monitoring workflow end-to-end |
-| **Repository** | [github.com/MentaNew/visionguard](https://github.com/MentaNew/visionguard) |
+| **Stack** | Python, LightGBM, Optuna, MLflow, FastAPI |
+| **Focus** | Reliable fraud classification with a reproducible experimentation workflow |
+| **Highlights** | Optuna hyperparameter search tracked in MLflow; real-time inference API with FastAPI |
+| **Repository** | [github.com/MentaNew](https://github.com/MentaNew?tab=repositories) |
 
-Fine-tuned YOLOv8 on a custom-annotated dataset with aggressive augmentation, exported to TensorRT for production inference, and built an event-driven alerting layer on Redis Streams. Includes a live dashboard with WebSocket-fed detections and historical analytics.
-
-</details>
-
-<details>
-<summary><b>⚡ FlowAPI — High-Performance Backend Framework Starter</b></summary>
-<br/>
-
-Opinionated, production-ready backend template with authentication, observability, rate limiting, and CI/CD baked in from the first commit.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | Node.js, TypeScript, Express, PostgreSQL, Redis, Docker, GitHub Actions |
-| **Scale** | Benchmarked at 5K+ req/s on a single instance |
-| **Performance** | P99 latency under 45ms with connection pooling and Redis caching |
-| **Security** | OWASP-hardened — helmet, rate limiting, input validation, refresh-token rotation |
-| **Impact** | Cuts new-service bootstrap time from days to under an hour |
-| **Repository** | [github.com/MentaNew/flowapi](https://github.com/MentaNew/flowapi) |
-
-Designed as the backend foundation I wished every project started with: layered architecture, typed request validation with Zod, structured logging, health checks, and OpenAPI docs generated from code. Fully tested with unit and integration suites running in CI.
-
-</details>
-
-<details>
-<summary><b>📊 MLPulse — Model Monitoring & Drift Detection Dashboard</b></summary>
-<br/>
-
-MLOps observability tool that tracks deployed model performance, detects data drift, and alerts on degradation before it impacts users.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | Python, FastAPI, React, PostgreSQL, Evidently, Docker |
-| **Scale** | Monitors multiple models with millions of logged predictions |
-| **Performance** | Drift computation on 1M+ rows in under 10 seconds via vectorized pipelines |
-| **Security** | API-key scoped ingestion, read-only dashboard roles |
-| **Impact** | Caught silent model degradation that offline metrics missed |
-| **Repository** | [github.com/MentaNew/mlpulse](https://github.com/MentaNew/mlpulse) |
-
-Implements statistical drift tests (PSI, KS) over sliding windows of production traffic, correlates drift signals with performance metrics, and surfaces everything in a clean React dashboard with configurable alert thresholds.
+Built as a complete MLOps exercise: systematic hyperparameter optimization with Optuna, experiment tracking and model registry with MLflow, and deployment of the best model behind a real-time FastAPI endpoint.
 
 </details>
 
@@ -187,31 +153,39 @@ Implements statistical drift tests (PSI, KS) over sliding windows of production 
 
 ## 💼 Experience
 
-### Software Engineer · **Tech Company**
-**2024 — Present**
+### AI Researcher · **Inria**
+**May 2026 — Present** · Paris, France
 
-Engineering AI-powered product features end-to-end — from ML experimentation to production deployment — within a cross-functional product team.
+Research on large language models applied to time series analysis.
 
-- Designed and shipped LLM-backed features serving production traffic with strict latency budgets
-- Built and maintained backend services (FastAPI, PostgreSQL, Redis) with full observability
-- Led model evaluation and prompt engineering workflows, improving output quality measurably
-- Collaborated with product and design to translate ambiguous requirements into shipped features
+- Benchmarking LLM performance on time series tasks against established baselines, evaluating reliability on sequential financial-style data
+- Implementing state-of-the-art methods for anomaly detection, motif discovery, and segmentation
 
-`Python` `FastAPI` `PyTorch` `LLMs` `PostgreSQL` `Docker` `AWS`
+`Python` `LLMs` `Time Series` `PyTorch` `Benchmarking`
 
 <br/>
 
-### Software Engineering Intern · **Startup**
-**2023 — 2024**
+### AI Researcher · **Centre Statistique et Images (STIM) — Mines Paris**
+**Mar 2026 — May 2026** · Paris, France
 
-Contributed across the full stack of a fast-moving product, owning features from database schema to UI.
+Research on unsupervised anomaly detection in images.
 
-- Developed React/Next.js frontend features with a focus on performance and accessibility
-- Implemented REST APIs and background job pipelines in Node.js/TypeScript
-- Wrote automated tests and improved CI reliability, reducing flaky failures
-- Participated in code reviews and architecture discussions
+- Developed unsupervised image anomaly detection models using deep learning latent representations trained on normal data
+- Applied Extreme Value Theory to improve detection thresholds and robustness
 
-`TypeScript` `React` `Next.js` `Node.js` `MongoDB` `CI/CD`
+`Deep Learning` `Computer Vision` `Anomaly Detection` `Extreme Value Theory`
+
+<br/>
+
+### Data Scientist · **ChargeViz — EV & Energy Startup**
+**Mar 2026 — May 2026** · Paris, France
+
+Applied data science for energy demand forecasting.
+
+- Built an end-to-end demand forecasting model achieving 80%+ long-term prediction accuracy, on par with top industry benchmarks
+- Designed A/B experiments to validate model improvements and inform product decisions
+
+`Forecasting` `A/B Testing` `Python` `Data Science`
 
 ---
 
@@ -221,58 +195,10 @@ Contributed across the full stack of a fast-moving product, owning features from
 
 | Recognition | Details |
 |:-----------:|:--------|
-| 🥇 **Hackathon Winner** | First place for an AI-powered application built and demoed in 36 hours |
-| 🧩 **500+ DSA Problems Solved** | Consistent problem-solving across LeetCode, GfG, and HackerRank |
-| 🌟 **Open Source Contributor** | Merged contributions to ML and developer-tooling repositories |
-| 🎓 **Academic Excellence** | Top-of-cohort performance in core CS and AI coursework |
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-### AWS
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-8B5CF6?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Machine%20Learning%20Foundations-7C3AED?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Foundations-6D28D9?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-5B21B6?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-4F46E5?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-4338CA?style=for-the-badge&logo=googlescholar&logoColor=white" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-Python%20Essentials-6366F1?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-4F46E5?style=for-the-badge&logo=cisco&logoColor=white" />
-
-</div>
-
----
-
-## 👨‍💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/MentaNew">
-  <img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1b27" height="40" />
-</a>
-&nbsp;
-<a href="https://www.geeksforgeeks.org/user/MentaNew">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1b27" height="40" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/MentaNew">
-  <img src="https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1a1b27" height="40" />
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/MentaNew">
-  <img src="https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1b27" height="40" />
-</a>
+| 🎓 **Double Degree** | Engineering at Mines Paris – PSL (Applied Maths & AI) × Master in Management at HEC Paris |
+| 🏛️ **Classes Préparatoires** | Lycée Henri IV — admitted to top Grandes Écoles through competitive national exams |
+| 🔬 **Research Experience** | AI research at Inria and Mines Paris (STIM) as an undergraduate |
+| 🤝 **Leadership** | Communications Manager at HEC4Refugees · Events Coordinator at HEC Bourse |
 
 </div>
 
@@ -283,21 +209,11 @@ Contributed across the full stack of a fast-moving product, owning features from
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MentaNew&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&icon_color=7C3AED&text_color=A5B4FC&count_private=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MentaNew&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=7C3AED&currStreakLabel=A5B4FC" height="180" />
+<img src="https://streak-stats.demolab.com/?user=MentaNew&theme=tokyonight&hide_border=true&background=1a1b27&ring=8B5CF6&fire=7C3AED&currStreakLabel=A5B4FC" height="180" />
 
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MentaNew&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8B5CF6&text_color=A5B4FC&langs_count=8" height="170" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MentaNew&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
 
 </div>
 
@@ -331,22 +247,22 @@ Contributed across the full stack of a fast-moving product, owning features from
 
 ```yaml
 learning:
-  - LLM fine-tuning & efficient inference (LoRA, quantization)
-  - Distributed systems design at scale
-  - Advanced RAG architectures & agentic workflows
+  - Generative models & modern deep learning architectures
+  - LLMs applied to time series analysis
+  - Extreme Value Theory for robust anomaly detection
 
 building:
-  - Production AI applications with measurable impact
-  - Open source developer tooling for ML workflows
+  - End-to-end ML systems — forecasting, fraud detection, anomaly detection
+  - Research benchmarks for sequential data
 
 exploring:
-  - Multi-agent systems & orchestration frameworks
-  - Edge deployment of vision models
+  - Representation learning for unsupervised detection
+  - MLOps best practices for reproducible research
 
 open_to:
-  - Software Engineering roles
-  - AI/ML Engineering roles
-  - Open source collaboration
+  - ML Engineering internships & roles
+  - AI Research collaborations
+  - Data Science projects
 ```
 
 ---
@@ -359,16 +275,12 @@ open_to:
   <img src="https://img.shields.io/badge/Gmail-elmehdi.elkass@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
 </a>
 <br/><br/>
-<a href="https://linkedin.com/in/MentaNew">
+<a href="https://www.linkedin.com/in/el-mehdi-el-kasmi-70840b291/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
 </a>
 &nbsp;
 <a href="https://github.com/MentaNew">
   <img src="https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
-</a>
-&nbsp;
-<a href="https://MentaNew.dev">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1b27" />
 </a>
 
 </div>
@@ -377,7 +289,7 @@ open_to:
 
 <div align="center">
 
-*"Engineering is the art of turning intelligence into impact."*
+*"Understand the math deeply enough, and the model becomes an instrument — not a black box."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=120&section=footer" width="100%"/>
 
